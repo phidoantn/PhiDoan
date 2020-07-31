@@ -1,6 +1,6 @@
 a{
   color: #006600;
-  font-family: 'Monserrat', cursive;
+  font-family: 'Monserrat';
   text-decoration: none;
 }
 a:hover{
@@ -12,7 +12,7 @@ body{
   margin: 0;
   margin-top: 0;
   text-align: center; /*center inline block element or full wide elements */
-  font-family:  'Merriweathers', cursive;
+  font-family:  'Merriweathers';
   font-size: 2em;
 }
 hr{
@@ -43,7 +43,7 @@ h3{
 }
 p{
   color: #004444;
-  font-family: cursive;
+  
   font-size: 1.5rem;
   line-height: 2;
 }
