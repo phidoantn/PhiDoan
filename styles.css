@@ -77,11 +77,13 @@ margin: 0;
   right: 200px;
   top: 10px;
  
-  filter: opacity(70%) brightness(80) saturate(20);
+  filter: opacity(70%);
 }
 
 .cloud{
   width: 13rem;
+  position:absolute;
+  
       bottom: 20px; 
        filter: opacity(70%);
 }
