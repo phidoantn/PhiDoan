@@ -76,7 +76,8 @@ margin: 0;
   position: absolute;
   right: 200px;
   top: 10px;
-  
+  filter: opacity(50%);
+   /* filter: opacity(60%) brightness(80) saturate(20); */
 }
 
 .botcloud{
@@ -84,12 +85,12 @@ margin: 0;
   position: absolute;
   left: 10%;
   bottom: 20px;
-    /* filter: opacity(60%) brightness(80) saturate(20); */
+   
 }
 .cloud{
   width: 13rem;
       bottom: 20px; 
-      filter: opacity(750%);
+      filter: opacity(50%);
 }
 .btn{
   color: #006600;
@@ -103,7 +104,7 @@ margin: 0;
 .icon{
 
   width: 10rem;
- float: left; /* keep the image stay on the left and the paragraph wrap around it, use clear for the opposite, when you don't want the pargraph to wrap around */
+ float: left;
   margin-right: 30px;
   }
 .icon2{
