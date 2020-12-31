@@ -22,7 +22,7 @@ hr{
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   width: 8%;
-    /* adjust with % will work with mutiple screens*/
+  
   margin: 100px auto;
 }
 h1{
@@ -76,8 +76,8 @@ margin: 0;
   position: absolute;
   right: 200px;
   top: 10px;
-  filter: opacity(50%);
-   /* filter: opacity(60%) brightness(80) saturate(20); */
+ 
+  filter: opacity(70%) brightness(80) saturate(20);
 }
 
 .botcloud{
@@ -90,7 +90,8 @@ margin: 0;
 .cloud{
   width: 13rem;
       bottom: 20px; 
-      filter: opacity(50%);
+  left: 10%;
+     filter: opacity(70%) brightness(80) saturate(20);
 }
 .btn{
   color: #006600;
