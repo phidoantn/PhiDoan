@@ -76,16 +76,8 @@ margin: 0;
   position: absolute;
   right: 200px;
   top: 10px;
-  filter: opacity(90%);
-  
-}
+  }
 
-.botcloud{
-  width: 16rem;
-  position: absolute;
-  left: 10%;
-  bottom: 20px;
-}
 .cloud{
   width: 13rem;
   bottom: 20px; 
