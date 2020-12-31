@@ -83,7 +83,7 @@ margin: 0;
 .cloud{
   width: 13rem;
   position:absolute;
-  
+  left:200px;
       bottom: 20px; 
        filter: opacity(70%);
 }
