@@ -76,6 +76,7 @@ margin: 0;
   position: absolute;
   right: 200px;
   top: 10px;
+  filter: opacity(110%);
   }
 
 .cloud{
