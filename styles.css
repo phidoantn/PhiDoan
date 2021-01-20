@@ -14,8 +14,9 @@ body{
   margin-top: 0;
   text-align: center;
   font-family:  'Merriweathers';
-  font-size: 2em;
+     font-size: 2em;
 }
+
 hr{
   background-color: none;
   border-style: none;
@@ -51,6 +52,64 @@ p{
 div{
   background-color: #cfe5cf;
 }
+
+.hoa1{
+  width: 3.6rem;
+  position: absolute;
+  top: 12.4rem; 
+ left:3rem;
+  filter: opacity(89%) brightness(110%);
+  padding-right: 1rem;
+}
+.hoa2{
+  width: 3.5rem;
+  position: absolute;
+  top: 14rem; 
+ right: 16rem;
+  filter: opacity(89%) brightness(110%);
+  
+}
+
+.hoa3{
+width: 4rem;
+top: 5rem;
+right:17rem;
+bottom: 1rem;
+filter: opacity(110%);
+padding-right: 0rem;
+margin-bottom: 4.5rem;;
+position:relative;
+}
+
+.la1{
+  width: 3.6rem;
+  position: absolute;
+  top: 15.5rem; 
+ left:12rem;
+ padding-left: 3rem;
+  filter: opacity(89%) brightness(110%);
+  
+}
+
+.la2{
+  width: 4rem;
+   left:0rem;
+   top : 0.7rem;
+  filter: opacity(100%);
+  padding-right: 0rem;
+  transform: scaleX(-1);  
+  position: relative;
+}
+.la3{
+  width: 3rem;
+   filter: opacity(110%);
+   position: relative;
+   right:6.5rem;
+   top:0.5rem;
+   padding-right: 0rem;
+   margin-bottom: 0rem;
+}
+
 .topcontainer{
   background-color: #134e13;
   position: relative;
@@ -72,20 +131,25 @@ margin: 0;
 }
 
 .topcloud{
-  width: 16rem;
+  width: 13rem;
   position: absolute;
-  right: 200px;
-  top: 10px;
+  right: 4rem;
+  top: 7rem;
   filter: opacity(110%);
   }
 
 .cloud{
-  width: 13rem;
-  bottom: 20px; 
-  left: 100px;
-  filter: opacity(60%);
-  padding-right: 30rem;
+  width: 16rem;
+  position: absolute;
+  top: 0px; 
+ right:18rem;
+  filter: opacity(110%);
+  /* padding-right: 30rem; */
 }
+
+
+
+
 .btn{
   color: #006600;
   font-size: 1.4rem;
@@ -95,11 +159,9 @@ margin: 0;
   padding-top: 7%;
   width: 10rem;
 }
-
 .profile{
   margin-top: 10rem;
 }
-
 .icon{
 
   width: 10rem;
