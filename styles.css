@@ -52,7 +52,7 @@ div{
   background-color: #cfe5cf;
 }
 
-/* -----------Classes -----------------------*/
+/* ----------------------------Classes ----------------------------------*/
 
 .hoa1{
   width: 3.6rem;
@@ -124,8 +124,7 @@ position:relative;
 }
 
 .topcontainer{
-  
-  background: url("Green.png");
+  background-color: #134e13
   padding-top: 40px;
   padding-bottom: 40px;
 }
