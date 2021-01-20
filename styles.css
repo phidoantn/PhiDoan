@@ -214,7 +214,6 @@ position: relative;
 .seperator{
   width:2.35rem;
   transform: rotate(25deg);
-  overflow: hidden;
   padding-top:4rem;
   padding-bottom:4rem;
 }
