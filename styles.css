@@ -23,9 +23,9 @@ hr{
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   width: 8%;
-   
   margin: 100px auto;
 }
+
 h1{
   margin:50px auto 0 auto;
   font-size: 3rem;
@@ -45,13 +45,14 @@ h3{
 }
 p{
   color: #004444;
-  
-  font-size: 1.5rem;
+    font-size: 1.5rem;
   line-height: 2;
 }
 div{
   background-color: #cfe5cf;
 }
+
+/* -----------Classes -----------------------*/
 
 .hoa1{
   width: 3.6rem;
@@ -71,15 +72,27 @@ div{
 }
 
 .hoa3{
-width: 4rem;
+width: 2.9rem;
 top: 5rem;
-right:17rem;
+right:16rem;
 bottom: 1rem;
 filter: opacity(110%);
 padding-right: 0rem;
 margin-bottom: 4.5rem;;
 position:relative;
 }
+
+.hoa4{
+  width: 3rem;
+  top: 5rem;
+  right:8rem;
+  bottom: 1rem;
+  transform: scaleX(-1);  
+  filter: opacity(100%);
+  padding-right: 0rem;
+  margin-bottom: 4.5rem;;
+  position:relative;
+  }
 
 .la1{
   width: 3.6rem;
@@ -101,7 +114,7 @@ position:relative;
   position: relative;
 }
 .la3{
-  width: 3rem;
+  width: 2.5rem;
    filter: opacity(110%);
    position: relative;
    right:6.5rem;
@@ -111,8 +124,8 @@ position:relative;
 }
 
 .topcontainer{
-  background-color: #134e13;
-  position: relative;
+  
+  background: url("Green.png");
   padding-top: 40px;
   padding-bottom: 40px;
 }
@@ -148,20 +161,11 @@ margin: 0;
 }
 
 
-
-
 .btn{
   color: #006600;
   font-size: 1.4rem;
   }
-.profilepic{
-  height: 10rem;
-  padding-top: 7%;
-  width: 10rem;
-}
-.profile{
-  margin-top: 10rem;
-}
+
 .icon{
 
   width: 10rem;
@@ -190,3 +194,21 @@ position: relative;
 .moreaboutme{
   position: relative;
     }
+    
+.profilepic{
+      height: 10rem;
+      padding-top: 7%;
+      width: 10rem;
+    }
+    
+.profile{
+      margin-top: 10rem;
+    }
+
+.seperator{
+  width:2.35rem;
+  transform: rotate(25deg);
+  overflow: hidden;
+  padding-top:4rem;
+  padding-bottom:4rem;
+}
