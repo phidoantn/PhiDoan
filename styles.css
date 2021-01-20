@@ -124,7 +124,8 @@ position:relative;
 }
 
 .topcontainer{
-  background-color: #134e13
+  background-color: #134e13;
+  position: relative;
   padding-top: 40px;
   padding-bottom: 40px;
 }
